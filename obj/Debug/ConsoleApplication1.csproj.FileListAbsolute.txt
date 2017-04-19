@@ -1,0 +1,8 @@
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\bin\Debug\System.Net.Http.dll
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\bin\Debug\System.Net.Http.xml
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ignac_000\Documents\Repositorio\Pruebas\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
